@@ -10,7 +10,7 @@ function home() {
       que esta pronto para quando a oportunidade chegar eu segurar firme e nao
       solta-la mais, espero que tenha paciencia pois serao tempos de muito
       apredizados para nos dois,eu nao quero deixar essa oportunidade passar,EU
-      TE AMO MUITO E QUERO VOCE NA MINHA VIDA HOJE,AMANHA E SEMPRE!!! junho
+      TE AMO MUITO E QUERO VOCE NA MINHA VIDA HOJE,AMANHA E SEMPRE!!!
     </h1>
   );
 }
